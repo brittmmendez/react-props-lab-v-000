@@ -15,7 +15,6 @@ Spaceship.defaultProps={
   speed: "slow"
   hasRockets: "false"
   colors: ['black', 'red']
-  
 };
 
 export default Spaceship;
