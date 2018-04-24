@@ -1,1 +1,12 @@
-// Code The Spaceship Component Here
+class Spaceship extends React.Component {
+  render() {
+    return(
+      <div>
+        
+
+      </div
+    )
+  }
+}
+
+export default Spaceship;
